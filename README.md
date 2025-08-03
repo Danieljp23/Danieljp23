@@ -37,5 +37,5 @@ Minha formação multidisciplinar e experiência no setor aéreo me capacitam pa
   
 </div>
 
-![Snake animation](https://github.com/Danieljp23/Danieljp23/dist/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Danieljp23/Danieljp23/blob/output/github-contribution-grid-snake.svg)
 
