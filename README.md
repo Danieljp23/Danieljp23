@@ -36,3 +36,6 @@ Minha formação multidisciplinar e experiência no setor aéreo me capacitam pa
   <a href="https://www.linkedin.com/in/daniel-josé-pena-88ab1620b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake animation](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/dist/github-contribution-grid-snake.svg)
+
