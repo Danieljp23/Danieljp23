@@ -19,9 +19,9 @@ Minha formação multidisciplinar e experiência no setor aéreo me capacitam pa
   - Projetos open source
   - Colaboração com a comunidade
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljp23&layout=compact&theme=tokyonight" style="height: 200px; width: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=danieljp23&show_icons=true&theme=tokyonight" style="height: 200px; width: 200px;" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljp23&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danieljp23&show_icons=true&theme=tokyonight" height="180" />
 </div>
 
 <div style="display: inline_block"><br>
