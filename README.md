@@ -19,10 +19,10 @@ Minha formação multidisciplinar e experiência no setor aéreo me capacitam pa
   - Projetos open source
   - Colaboração com a comunidade
 
-<div style="display: flex; justify-content: center;">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljp23&layout=compact&theme=tokyonight" width="420" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=danieljp23&show_icons=true&theme=tokyonight" width="480" height="200" />
-</div>
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
