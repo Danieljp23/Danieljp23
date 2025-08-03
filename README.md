@@ -21,7 +21,7 @@ Minha formação multidisciplinar e experiência no setor aéreo me capacitam pa
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljp23&layout=compact&theme=tokyonight" style="height: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=danieljp23&show_icons=true&theme=tokyonight" style="height: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danieljp23&show_icons=true&theme=tokyonight" style="height: 40%;" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
